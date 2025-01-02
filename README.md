@@ -125,8 +125,8 @@ We welcome contributions from developers, researchers, and blockchain enthusiast
 ## **📞 Contact**
 For questions, suggestions, or partnership inquiries:
 - Email: zenoai@domain.com
-- Twitter: [@ZenoAssistant](https://twitter.com/ZenoAssistant)
-- Website: [www.zenoai.com](http://www.zenoai.com)
+- Twitter: @projectzenoxyz
+- Website: zenoassistant.com
 
 Join us in building the future of decentralized technology with Zeno AI! 🚀
 
